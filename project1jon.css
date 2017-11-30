@@ -1,0 +1,27 @@
+.A
+{height: 100px;
+background-color: orange;
+margin: 0;
+}
+
+.wrappper
+{width: 800px;
+margin: auto;
+}
+.C
+{margin: auto;
+text-decoration: underline;
+}
+.B
+{height: 70px;
+background-color: orange;
+margin: 0;
+text-align: center;
+color: white;
+}
+.H
+{text-align: center;
+height: auto;
+font-size: 75px;
+color: white;
+}
